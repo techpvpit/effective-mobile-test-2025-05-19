@@ -65,7 +65,8 @@ PID последнего отслеженного процесса: /var/run/tes
 
 ## 📎 Автор
 
-Telegram: @techpvpit
-Email: [techpvpit@mail.ru](mailto:techpvpit@mail.ru)
+- 👤 Telegram: [@techpvpit](https://t.me/techpvpit)  
+- 📧 Email: techpvpit@mail.ru
+
 
 
